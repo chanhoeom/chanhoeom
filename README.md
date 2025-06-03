@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 👨‍💻
 
-I’m Chanho Eom (엄찬호), an Assistant Professor at Chung-Ang University, where I lead the [Perceptual AI Lab)](https://pailab.cau.ac.kr). My research focuses on computer vision, especially person re-identification, representation learning, and multi-camera perception systems.
+I’m Chanho Eom (엄찬호), an Assistant Professor at Chung-Ang University, where I lead the [Perceptual AI Lab](https://pailab.cau.ac.kr). My research focuses on computer vision, especially person re-identification, representation learning, and multi-camera perception systems.
 
 ### 🔬 Research Interests
 - Person Re-identification & Multi-modal Retrieval
